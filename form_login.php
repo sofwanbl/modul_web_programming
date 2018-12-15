@@ -61,7 +61,7 @@
 	   }
 	 else
 	   {
-		 echo "<center>Gagal</center>";
+	      echo "<center>Gagal</center>";
 	   }	      	   
    ?>	   
 </body>
